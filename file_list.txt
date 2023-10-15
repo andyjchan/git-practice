@@ -1,0 +1,14 @@
+total 4.0K
+-rw-r--r-- 1 jchan 197609 16 Oct 15 11:35 README.md
+-rw-r--r-- 1 jchan 197609  0 Oct 15 11:40 file_list.txt
+-rw-r--r-- 1 jchan 197609  1 Oct 15 11:39 hello_world
+-rw-r--r-- 1 jchan 197609  0 Oct 14 18:27 history_command.txt
+-rw-r--r-- 1 jchan 197609 48 Oct 14 18:07 new_words.txt
+-rw-r--r-- 1 jchan 197609 37 Oct 14 17:56 words.txt
+total 5.0K
+-rw-r--r-- 1 jchan 197609  16 Oct 15 11:35 README.md
+-rw-r--r-- 1 jchan 197609 343 Oct 15 11:40 file_list.txt
+-rw-r--r-- 1 jchan 197609   1 Oct 15 11:39 hello_world
+-rw-r--r-- 1 jchan 197609   0 Oct 14 18:27 history_command.txt
+-rw-r--r-- 1 jchan 197609  48 Oct 14 18:07 new_words.txt
+-rw-r--r-- 1 jchan 197609  37 Oct 14 17:56 words.txt
